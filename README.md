@@ -1,0 +1,2 @@
+# BJSCheck
+功能为检查SQL文件夹中.sql文件的每条BJSsql语句是否包括特定关键词，避免sql语句影响其他系统
